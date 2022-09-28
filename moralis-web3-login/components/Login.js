@@ -8,7 +8,7 @@ function Login() {
   const handleCustomLogin = async () => {
     await authenticate({
       provider: "web3Auth",
-      clientId: "2X8PHk5OUQUnlMQOa6wRTAHq3ppHSym6bUBjmv9a",
+      clientId: "BKxP1cDxFwknu0GboZfDp9v7XUX2rDYRmREJSlAOzs5JgI1J4e7vQZHBkDgccmFTmjyEJjVPb7kXjTl8rVJP414",
     });
   };
 
